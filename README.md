@@ -20,7 +20,7 @@ Proyecto creado usando las tecnologías HTML, SCC, BOOSTRAP, SASS, GULP realizan
       height="100" /> </a>
 
 -  Visualización :-
-<a href="https://podcastfm01.netlify.app/" target="_blank"
-    rel="noreferrer">XXXXXXXXX</a>
+<a href="https://guitarla1.netlify.app/" target="_blank"
+    rel="noreferrer">https://guitarla1.netlify.app/</a>
 
 
