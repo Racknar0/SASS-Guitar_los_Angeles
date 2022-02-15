@@ -1,0 +1,9 @@
+@use "../custom" as *; //Importar custom
+@use "../base/mixins" as m;
+@use "../base/animaciones" as *;
+
+.cursos {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    @include m.background-image('../img/cursos_bg.jpg')
+}

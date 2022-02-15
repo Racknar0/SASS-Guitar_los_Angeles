@@ -1,0 +1,34 @@
+@use "../custom" as *; //Importar custom
+@use "../base/mixins" as m;
+@use "../base/animaciones" as *;
+
+.header {
+  @include m.background-image("../img/header.jpg");
+  position: relative; //PARA POCICIONAR GUITARRA
+
+  .header-guitarra {
+    display: none;
+
+    @include media-breakpoint-up(lg) {
+      display: block; //PARA POCICIONAR GUITARRA
+      position: absolute; //PARA POCICIONAR GUITARRA
+      right: 0; //PARA POCICIONAR GUITARRA
+      bottom: 0; //PARA POCICIONAR GUITARRA
+
+        animation-duration: 1s;
+        animation-delay: 0s;
+        animation-timing-function: ease;
+      animation-name: animarImagen;
+    }
+  }
+}
+
+.navegacion {
+    position: relative; //PARA POCICIONAR GUITARRA
+    z-index: 10; //PARA POCICIONAR GUITARRA
+  a {
+    &:hover {
+      background-color: $primary;
+    }
+  }
+}

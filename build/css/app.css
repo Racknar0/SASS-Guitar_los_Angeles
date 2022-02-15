@@ -2190,9 +2190,9 @@ progress {
   color: #212529;
   background-color: #fff;
   background-clip: padding-box;
-  border: 1px solid #ced4da;
+  border: 1px solid #262626;
   appearance: none;
-  border-radius: 0.25rem;
+  border-radius: 1rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -2339,11 +2339,11 @@ textarea.form-control-lg {
 }
 .form-control-color::-moz-color-swatch {
   height: 1.5em;
-  border-radius: 0.25rem;
+  border-radius: 1rem;
 }
 .form-control-color::-webkit-color-swatch {
   height: 1.5em;
-  border-radius: 0.25rem;
+  border-radius: 1rem;
 }
 
 .form-select {
@@ -2360,8 +2360,8 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-position: right 0.75rem center;
   background-size: 16px 12px;
-  border: 1px solid #ced4da;
-  border-radius: 0.25rem;
+  border: 1px solid #262626;
+  border-radius: 1rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   appearance: none;
 }
@@ -2677,8 +2677,8 @@ textarea.form-control-lg {
   text-align: center;
   white-space: nowrap;
   background-color: #e9ecef;
-  border: 1px solid #ced4da;
-  border-radius: 0.25rem;
+  border: 1px solid #262626;
+  border-radius: 1rem;
 }
 
 .input-group-lg > .form-control,
