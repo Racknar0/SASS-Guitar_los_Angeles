@@ -1,26 +1,92 @@
-Proyecto creado usando las tecnologías HTML, SCC, BOOSTRAP, SASS, GULP realizando cambios en las variables, utilizando diferentes tipos de elementos como mixins de Boostrap, haciendo muchos tipos de modificaciones.
+<h1 align="center">🌟 Project: Guitar Los Angeles 🎨</h1>
 
 
-<h1 align="center">Proyecto GuitarLA LandPage</h1>
-<h3 align="center">Proyecto creado usando las tecnologías HTML, SCC, BOOSTRAP, SASS🌟.</h3>
+<h3 align="center">📝 Was created using the technologies HTML, CSS, BOOSTRAP, SASS and GuLP🌟.</h3>
 
-- ⚡ Producción :- realizando cambios en las variables, utilizando diferentes tipos de elementos como mixins de Boostrap, haciendo muchos tipos de modificaciones..
 
-<a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="100" height="100" /> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="100" height="100" /> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100"
-      height="100" /> </a>
-<a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> <img
-      src="https://camo.githubusercontent.com/eb23bffe58240e82aab04949ff21c8922ebda2f6612cc4cdb3ca537ddd04701b/68747470733a2f2f6769746c61622e636f6d2f6e6764616e6774752f67756c702d636f6d6d756e6974792d6c6f676f2f2d2f7261772f6d61696e2f6c6f676f2e706e67" alt="sass" width="100"
-      height="100" /> </a>
+<div align="center">
+  
+![GitHub last commit](https://img.shields.io/github/last-commit/Racknar0/guitaLA)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Racknar0/guitaLA)
+![GitHub language count](https://img.shields.io/github/languages/count/Racknar0/guitaLA)
+![GitHub top language](https://img.shields.io/github/languages/top/Racknar0/guitaLA)
+![GitHub issues](https://img.shields.io/github/issues/Racknar0/guitaLA)
 
--  Visualización :-
-<a href="https://guitarla1.netlify.app/" target="_blank"
-    rel="noreferrer">https://guitarla1.netlify.app/</a>
+</div>
 
+<br>
+
+## <h3>📄 **Description:**</h3>
+
+> This project  was created using the technologies HTML, CSS, BOOSTRAP, SASS and GuLP, making changes in the variables, using different types of elements such as mixins of Boostrap, making many types of modifications.
+
+<br>
+
+## <h3>🚀 **:: Deploy link ::**</h3>
+
+> 🌎 [https://guitarla1.netlify.app/](https://guitarla1.netlify.app/ 'Deployment Link')
+
+<br>
+
+## <h3>📄 **:: Preview ::**</h3>
+
+<img src="./preview.gif" alt="Texto alternativo" width="400px">
+
+<br>
+
+## <h3>📄 **:: Technologies used and resources used ::**</h3>
+
+<div style="display: flex; justify-content: start; align-items: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80" /> 
+      <img src="https://github.com/Racknar0/logos/blob/master/coleccion-logos/html5.png?raw=true" alt="css3" width="80" height="80" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="80" height="80" />
+      <img src="https://raw.githubusercontent.com/Racknar0/logos/181ca6311c2bd5811614e50fb29a6c713bc4575e/coleccion-logos/gulp/gulp-plain.svg"
+      alt="bootstrap" width="80" height="80" />
+</div>
+
+<br>
+
+-   [HTML](https://developer.mozilla.org/es/docs/Web/HTML 'HTML')
+-   [JAVASCRIPT](https://developer.mozilla.org/es/docs/Web/JavaScript 'JAVASCRIPT')
+-   [CSS](https://developer.mozilla.org/es/docs/Web/CSS 'CSS')
+-   [BOOSTRAP](https://getbootstrap.com/ 'BOOSTRAP')
+-   [GULP](https://gulpjs.com/ 'GULP')
+
+<br>
+
+## <h3>🤖 **:: Aviable Commands ::**</h3>
+
+      npm install - Installs the dependencies of the project.
+      npm run dev - Runs the project in development mode.
+      npm run build - Builds the project for production.
+
+<br>
+
+## <h3>⚙️ **:: How to start ::**</h3>
+
+-   Clone the repository in your computer.
+-   Navigate to the root folder of the project.
+-   Run the command `npm install` to install the dependencies.
+-   Run the command `npm run dev` to start the project in development mode.
+-   Open the index.html file in your browser.
+-   Enjoy! 🎉
+
+<br>
+
+## <h3>🤝 **:: How to contribute ::**</h3>
+
+If you would like to contribute to this project, we would love to receive your contributions! You can help in the following ways:
+
+-   Correcting errors in the code.
+-   Adding new features to the project.
+-   Improving existing documentation.
+-   Sharing your ideas and suggestions in the "Issues" section of the project.
+-   Thank you for your interest in this project! 🎉
+
+<br>
+
+## <h3>🤝 **:: Developed by ::**</h3>
+
+> 🌎 [Racknar0](https://github.com/Racknar0 'Deployment Link')
 
