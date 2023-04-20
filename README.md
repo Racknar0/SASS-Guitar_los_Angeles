@@ -20,7 +20,7 @@
 
 
 
-## <h3>📄 **Description:**</h3>
+<h3>📄 **Description:**</h3>
 
 > This project  was created using the technologies HTML, CSS, BOOSTRAP, SASS and GuLP, making changes in the variables, using different types of elements such as mixins of Boostrap, making many types of modifications.
 
