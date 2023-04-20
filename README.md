@@ -33,13 +33,13 @@
 
 <img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
-## <h3>📄 **:: Preview ::**</h3>
+<h3>📄 Preview: </h3>
 
 <img src="./preview.gif" alt="Texto alternativo" width="400px">
 
 <img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
-## <h3>📄 **:: Technologies used and resources used ::**</h3>
+<h3>📄 Technologies used and resources used :</h3>
 
 <div style="display: flex; justify-content: start; align-items: center;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80" /> 
@@ -50,7 +50,7 @@
       alt="bootstrap" width="80" height="80" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
+<br>
 
 -   [HTML](https://developer.mozilla.org/es/docs/Web/HTML 'HTML')
 -   [JAVASCRIPT](https://developer.mozilla.org/es/docs/Web/JavaScript 'JAVASCRIPT')
@@ -58,9 +58,9 @@
 -   [BOOSTRAP](https://getbootstrap.com/ 'BOOSTRAP')
 -   [GULP](https://gulpjs.com/ 'GULP')
 
-<br>
+<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
-## <h3>🤖 **:: Aviable Commands ::**</h3>
+<h3>🤖 Aviable Commands: </h3>
 
       npm install - Installs the dependencies of the project.
       npm run dev - Runs the project in development mode.
@@ -68,7 +68,7 @@
 
 <img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
-## <h3>⚙️ **:: How to start ::**</h3>
+<h3>⚙️ How to start: </h3>
 
 -   Clone the repository in your computer.
 -   Navigate to the root folder of the project.
@@ -79,7 +79,7 @@
 
 <img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
-## <h3>🤝 **:: How to contribute ::**</h3>
+<h3>🤝 How to contribute: </h3>
 
 If you would like to contribute to this project, we would love to receive your contributions! You can help in the following ways:
 
@@ -91,7 +91,7 @@ If you would like to contribute to this project, we would love to receive your c
 
 <img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
-## <h3>🤝 **:: Developed by ::**</h3>
+<h3>🤝 Developed by: </h3>
 
 > 🌎 [Racknar0](https://github.com/Racknar0 'Deployment Link')
 
