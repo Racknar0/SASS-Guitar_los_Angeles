@@ -20,13 +20,14 @@
 
 
 
-<h3>📄 **Description:**</h3>
+<h3>📄 Description:</h3>
 
 > This project  was created using the technologies HTML, CSS, BOOSTRAP, SASS and GuLP, making changes in the variables, using different types of elements such as mixins of Boostrap, making many types of modifications.
 
 <img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
-## <h3>🚀 **:: Deploy link ::**</h3>
+
+<h3>🚀 Deploy link: </h3>
 
 > 🌎 [https://guitarla1.netlify.app/](https://guitarla1.netlify.app/ 'Deployment Link')
 
