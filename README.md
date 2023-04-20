@@ -14,25 +14,29 @@
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
+
+
+
+
 
 ## <h3>📄 **Description:**</h3>
 
 > This project  was created using the technologies HTML, CSS, BOOSTRAP, SASS and GuLP, making changes in the variables, using different types of elements such as mixins of Boostrap, making many types of modifications.
 
-<br>
+<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
 ## <h3>🚀 **:: Deploy link ::**</h3>
 
 > 🌎 [https://guitarla1.netlify.app/](https://guitarla1.netlify.app/ 'Deployment Link')
 
-<br>
+<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
 ## <h3>📄 **:: Preview ::**</h3>
 
 <img src="./preview.gif" alt="Texto alternativo" width="400px">
 
-<br>
+<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
 ## <h3>📄 **:: Technologies used and resources used ::**</h3>
 
@@ -45,7 +49,7 @@
       alt="bootstrap" width="80" height="80" />
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
 -   [HTML](https://developer.mozilla.org/es/docs/Web/HTML 'HTML')
 -   [JAVASCRIPT](https://developer.mozilla.org/es/docs/Web/JavaScript 'JAVASCRIPT')
@@ -61,7 +65,7 @@
       npm run dev - Runs the project in development mode.
       npm run build - Builds the project for production.
 
-<br>
+<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
 ## <h3>⚙️ **:: How to start ::**</h3>
 
@@ -72,7 +76,7 @@
 -   Open the index.html file in your browser.
 -   Enjoy! 🎉
 
-<br>
+<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
 ## <h3>🤝 **:: How to contribute ::**</h3>
 
@@ -84,7 +88,7 @@ If you would like to contribute to this project, we would love to receive your c
 -   Sharing your ideas and suggestions in the "Issues" section of the project.
 -   Thank you for your interest in this project! 🎉
 
-<br>
+<img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
 ## <h3>🤝 **:: Developed by ::**</h3>
 
